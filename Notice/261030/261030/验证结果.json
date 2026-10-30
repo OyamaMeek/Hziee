@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "pages": 45,
+  "documents": 7,
+  "detected_table_regions": 13,
+  "table_pages": [
+    11,
+    21,
+    22,
+    29,
+    30,
+    33,
+    34,
+    35,
+    39,
+    44,
+    45
+  ],
+  "article_and_chapter_locations": 171,
+  "source_sha256": "0a81c7a5bfd2559c58227da1defccd65f8fb3bb21db8cee7bd5731f3e015b530",
+  "copy_sha256": "0a81c7a5bfd2559c58227da1defccd65f8fb3bb21db8cee7bd5731f3e015b530",
+  "source_text_characters": 27092,
+  "pypdf_pdfplumber_character_counts_equal": true,
+  "layout_character_counts_equal": true,
+  "visual_review": false
+}
